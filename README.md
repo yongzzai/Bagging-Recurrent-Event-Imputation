@@ -1,6 +1,6 @@
 ## Bagging Recurrent Event Imputation for Repair of Imperfect Event Log with Missing Categorical Events (S.H Sim)
 
-This repository contains code that implements and has maintained Bagging Recurrent Event Imputation algorithm.
+This repository contains code that implements and has maintained Bagging Recurrent Event Imputation algorithm. <br/>
 Since I am not the original author of BREI, so please contact S.H Sim for any inquiries.
 
 Original paper: https://ieeexplore.ieee.org/document/9566796
