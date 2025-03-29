@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 24 14:06:32 2021
-
-@author: SIM
-"""
-
 import pandas as pd
 import numpy as np
 from UtilizationModule import MissingEventGenerate as meg
