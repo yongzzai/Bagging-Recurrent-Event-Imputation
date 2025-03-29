@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  7 21:52:37 2020
-
-@author: SIM
-"""
-
 import json
 import ImputationModule.ModelGenerator
 
